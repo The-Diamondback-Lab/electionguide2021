@@ -35,7 +35,13 @@ function parseProfileFile(filename, text) {
     .map(s => s.replace(/“|”/g, '"'))
     .map(s => s.replace(/’/g, '\''));
 
-  const candidateInfo = lines.splice(0, 6);
+  // Retrieve base candidate information. Trim the lines and
+  // set any "null" lines to empty strings
+  const candidateInfo = lines.splice(0, 6).map(x => {
+    x = x.trim();
+    if (x.toLowerCase() === 'null') x = '';
+    return x;
+  });
 
   /**
    * @type {CandidateProfile}
