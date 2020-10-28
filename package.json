@@ -1,7 +1,7 @@
 {
-  "name": "cityelectionguide",
+  "name": "electionguide2020",
   "version": "1.0.0",
-  "description": "A website displaying info about College Park, MD election candidates",
+  "description": "A website displaying info about the 2020 Presidential candidates and Maryland Congressional candidates",
   "scripts": {
     "test": "echo \"There are no tests :)\" ",
     "clean": "gulp clean",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/The-Diamondback-Lab/cityelectionguide.git"
+    "url": "git+https://github.com/The-Diamondback-Lab/electionguide2020.git"
   },
   "keywords": [
     "javascript",
@@ -34,9 +34,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/The-Diamondback-Lab/cityelectionguide/issues"
+    "url": "https://github.com/The-Diamondback-Lab/electionguide2020/issues"
   },
-  "homepage": "https://github.com/The-Diamondback-Lab/cityelectionguide#readme",
+  "homepage": "https://github.com/The-Diamondback-Lab/electionguide2020#readme",
   "devDependencies": {
     "aws-sdk": "^2.603.0",
     "babel-minify": "^0.5.1",
