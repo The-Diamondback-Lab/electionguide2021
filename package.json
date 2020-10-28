@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A website displaying info about College Park, MD election candidates",
   "scripts": {
+    "test": "echo There are no test :)",
     "clean": "gulp clean",
     "prebuild": "npm run clean",
     "build": "gulp build",
