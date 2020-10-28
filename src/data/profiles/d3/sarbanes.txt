@@ -1,0 +1,38 @@
+John Sarbanes
+sarbanes
+District 3
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Democrat
+
+<p class="c9"><span class="c1">Democratic Rep. John Sarbanes is running for his seventh term in the U.S. House of
+    Representatives for Maryland&rsquo;s 3rd District.</span></p>
+<p class="c8"><span class="c1"></span></p>
+<p class="c9"><span class="c1">Sarbanes, who previously worked in the Maryland State Department of Education and as
+    an attorney in the health care field, is a staunch supporter of public funding for community improvement
+    programs.</span></p>
+<p class="c8 c26"><span class="c1"></span></p>
+<p class="c9"><span class="c1">Sarbanes serves on the House&rsquo;s Energy and Commerce Committee and the Oversight
+    and Reform Committee. He is also chair of the Democracy Reform Task Force and supports government reform and
+    voting rights.</span></p>
+<p class="c8"><span class="c1"></span></p>
+<p class="c9"><span class="c1">Sarbanes, alongside other members of the Maryland delegation in Congress, put forth
+    over $8 million in federal funds to Johns Hopkins University for research on how the COVID-19 pandemic
+    disproportionately impacts minority communities. He also voted in favor of the most recent COVID-19 relief
+    package.</span></p>
+<p class="c9"><span>If elected for another term, according to his </span><span class="c4 c19"><a class="c2"
+      href="https://www.johnsarbanes.com/issues">campaign
+      site</a></span><span class="c1">, Sarbanes is committed to:</span></p>
+<p class="c8"><span class="c1"></span></p>
+<ul class="c17 lst-kix_nupyflh609av-0 start">
+  <li class="c3"><span class="c1">Preserving the Chesapeake Bay, which he calls a &ldquo;national treasure that
+      connects our communities and powers our regional economy&rdquo;</span></li>
+  <li class="c3"><span class="c1">Decreasing high prescription drug costs, in continuation of the late Rep. Elijah
+      Cummings&rsquo; Lower Drug Costs Now Act</span></li>
+  <li class="c3"><span class="c1">Building a small-donor matching system for funding campaigns, overturning Citizens
+      United and increasing the amount of transparency surrounding political donors</span></li>
+  <li class="c3"><span>Investing in medical research through measures such as exploring new cures for diseases at
+      the National Institutes of Health and strengthening the Affordable Care Act so the health care system
+      &ldquo;provides access and coverage to every individual&rdquo;</span></li>
+</ul>

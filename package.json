@@ -1,0 +1,51 @@
+{
+  "name": "cityelectionguide",
+  "version": "1.0.0",
+  "description": "A website displaying info about College Park, MD election candidates",
+  "scripts": {
+    "clean": "gulp clean",
+    "prebuild": "npm run clean",
+    "build": "gulp build",
+    "dev": "node ./dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Diamondback-Lab/cityelectionguide.git"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "bootstrap",
+    "html",
+    "css"
+  ],
+  "contributors": [
+    {
+      "name": "Akshay Guthal"
+    },
+    {
+      "name": "Siddy Tuli"
+    },
+    {
+      "name": "Vishal Patel",
+      "email": "vpatel14@terpmail.umd.edu"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Diamondback-Lab/cityelectionguide/issues"
+  },
+  "homepage": "https://github.com/The-Diamondback-Lab/cityelectionguide#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.603.0",
+    "babel-minify": "^0.5.1",
+    "clean-css": "^4.2.1",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "html-minifier": "^4.0.0",
+    "mkdirp-promise": "^5.0.1",
+    "ncp": "^2.0.0",
+    "recursive-readdir": "^2.2.2",
+    "rimraf": "^3.0.0"
+  }
+}

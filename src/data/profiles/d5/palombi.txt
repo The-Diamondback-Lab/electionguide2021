@@ -1,0 +1,42 @@
+Chris Palombi
+palombi
+District 5
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Republican
+
+<p class="c9"><span class="c1">Chris Palombi is a Calvert County native and former U.S. Capitol Police Officer
+    running for office for the first time. </span></p>
+<p class="c9"><span class="c1">He served on the Capitol Police force for nearly five years out of college and was
+    detailed in both the House and Senate chambers. Palombi then pursued a career in web development and became
+    webmaster of St. Mary&apos;s Ryken High School in Leonardtown. He coaches ice hockey at the school and served as
+    president of the Maryland Student Hockey League from 2013 to 2015. </span></p>
+<p class="c9"><span>The candidate says he got into politics after witnessing unproductive </span><span class="c4 c19"><a class="c2" href="https://www.thebaynet.com/articles/0120/chris-palombi-announces-campaign-to-unseat-steny-hoyer.html">divisiveness</a></span><span class="c1">&#xA0;on Capitol Hill. Palombi touts traditional conservative beliefs such as limited government and
+    fiscal responsibility. </span></p>
+<p class="c9"><span class="c1">Here&#x2019;s where he stands on the issues:</span></p>
+<ul class="c17 lst-kix_obw109h8dnih-0 start">
+  <li class="c3"><span class="c1">Palombi supports Chesapeake Bay conservation. He believes in &#x201C;embracing the
+      free market&#x201D; to address environmental concerns, according to his website. Palombi also believes in
+      reducing greenhouse gas emissions by eliminating food waste. </span></li>
+</ul>
+<p class="c8"><span class="c1"></span></p>
+<ul class="c17 lst-kix_obw109h8dnih-0">
+  <li class="c3"><span class="c1">Palombi supports limited government interference in the economy. He has called for
+      simplifying the tax code and tackling the national debt. </span></li>
+</ul>
+<p class="c8"><span class="c1"></span></p>
+<ul class="c17 lst-kix_obw109h8dnih-0">
+  <li class="c3"><span>Palombi believes the federal government should do more to aid Americans during the pandemic,
+      especially as unemployment benefits have ceased. However, he accused Republicans and Democrats of politicizing
+      the pandemic and said he would be </span><span class="c4 c19"><a class="c2" href="https://www.capitalgazette.com/politics/elections/ac-cn-hoyer-palombi-district-5-20201015-m24uu5tf3fecpnjk7bc435rlau-story.html?">in
+        favor of a &#x201C;skinny&#x201D; economic stimulus bill</a></span><span class="c1">&#xA0;that provides
+      funding for schools and small businesses.</span></li>
+</ul>
+<p class="c8"><span class="c1"></span></p>
+<ul class="c17 lst-kix_obw109h8dnih-0">
+  <li class="c3"><span class="c1">Palombi supports Marylanders&#x2019; right to protest for racial justice. He seeks
+      to improve District 5&#x2019;s relationship with law enforcement by promoting transparency and accountability
+      from police and eliminating excessive use of force. Palombi advocates for community policing. He does not
+      support defunding the police. &#xA0;</span></li>
+</ul>

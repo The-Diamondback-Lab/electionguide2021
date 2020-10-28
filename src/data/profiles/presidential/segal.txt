@@ -1,0 +1,22 @@
+Jerome Segal
+segal
+Presidential Race
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Bread and Roses
+
+<p class="c13"><span class="c1">Jerome Segal, a former research scholar in the University of Maryland&rsquo;s
+    philosophy department, is running for president under the socialist Bread and Roses party, which he created and
+    Maryland state officials certified in January. </span></p>
+<p class="c13 c14"><span class="c1"></span></p>
+<p class="c13"><span>Segal</span><span><a class="c2"
+      href="https://www.washingtonpost.com/local/md-politics/jerome-segal-of-maryland-socialist-bread-and-roses-party-to-run-for-president/2019/08/28/26a02ce8-c8f7-11e9-a4f3-c081a126de70_story.html">&nbsp;</a></span><span
+    class="c4"><a class="c2"
+      href="https://www.washingtonpost.com/local/md-politics/jerome-segal-of-maryland-socialist-bread-and-roses-party-to-run-for-president/2019/08/28/26a02ce8-c8f7-11e9-a4f3-c081a126de70_story.html">told
+      the Washington Post</a></span><span class="c1">&nbsp;he understands he has a microscopic chance of winning but
+    is running because he wants third parties to have more national prominence.</span></p>
+<p class="c13 c14"><span class="c1"></span></p>
+<p class="c13"><span class="c1">His party has two central goals, according to his campaign website. The first is to
+    redistribute the nation&rsquo;s wealth and establish income caps. The second is to guarantee employment and
+    health care and lower the cost of meeting basic needs to instead promote focus on leisure.</span></p>

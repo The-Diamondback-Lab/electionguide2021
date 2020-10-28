@@ -1,0 +1,62 @@
+Andy Harris
+harris
+District 1
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Republican
+
+<p class="c9"><span class="c1">Andy Harris&rsquo; career in public service started during the Reagan administration,
+    when he volunteered for the Medical Corps as an anesthesiologist, according to his campaign website. </span></p>
+<p class="c8"><span class="c1"></span></p>
+<p class="c9"><span class="c1">He also served in the Maryland State Senate for more than 10 years, and he is
+    currently the U.S. Representative for Maryland&rsquo;s 1st Congressional District. The republican was elected to
+    Congress in 2010.</span></p>
+<p class="c9"><span>Now in his fifth term, Harris has voted to pass tax cuts, sponsored </span><span class="c4"><a
+      class="c2"
+      href="https://harris.house.gov/media/press-releases/harris-builds-previous-efforts-prevent-youth-substance-abuse-leading-new-bill">a
+      bill that helps provide grants to community coalitions working to prevent substance abuse in
+      youth</a></span><span>&nbsp;amid the pandemic and </span><span class="c4"><a class="c2"
+      href="https://harris.house.gov/media/press-releases/harris-helps-lead-effort-school-re-opening-guidelines">led</a></span><span
+    class="c1">&nbsp;an effort to allow local jurisdictions to create their own school reopening guidelines. </span>
+</p>
+<p class="c8"><span class="c1"></span></p>
+<p class="c9"><span>Harris is also overseeing a drug company trial for COVID-19 treatment, according
+    to</span><span><a class="c2"
+      href="https://www.politico.com/news/2020/09/17/andy-harris-coronavirus-neurorx-board-417329">&nbsp;</a></span><span
+    class="c4"><a class="c2"
+      href="https://www.politico.com/news/2020/09/17/andy-harris-coronavirus-neurorx-board-417329">POLITICO</a></span><span
+    class="c1">. &nbsp;</span></p>
+<p class="c8"><span class="c1"></span></p>
+<p class="c25 c22"><span>Here is where he stands on the issues: </span><span class="c1">&nbsp;</span></p>
+<ul class="c17 lst-kix_twx5mjg3dk87-0 start">
+  <li class="c3"><span>Harris supports cutting taxes, according to his </span><span class="c4"><a class="c2"
+        href="https://www.andyharris.com/issues">campaign
+        website</a></span><span class="c1">. He also advocates for reducing government regulations, investing in
+      research and development and cutting government spending. </span></li>
+  <li class="c3"><span>Harris says he supports encouraging sustainable practices in agriculture and preserving the
+      Chesapeake Bay. He does not support the Green New Deal, he told</span><span><a class="c2"
+        href="https://www.baltimoresun.com/politics/elections/voter-guide/bs-voter-guide-harris-congress-d1-20200518-xnb4rfpjefgetmii2dp3pswfyi-story.html">&nbsp;</a></span><span
+      class="c4"><a class="c2"
+        href="https://www.baltimoresun.com/politics/elections/voter-guide/bs-voter-guide-harris-congress-d1-20200518-xnb4rfpjefgetmii2dp3pswfyi-story.html">The
+        Baltimore Sun</a></span><span>, and says the U.S. should address climate change in ways that do not harm the
+      economy. He</span><span><a class="c2"
+        href="https://www.ontheissues.org/House/Andy_Harris_Energy_%2B_Oil.htm">&nbsp;</a></span><span>has
+      historically </span><span class="c4"><a class="c2"
+        href="https://www.ontheissues.org/House/Andy_Harris_Energy_%2B_Oil.htm">not
+        supported</a></span><span
+      class="c1">&nbsp;regulating greenhouse gases.</span></li>
+  <li class="c3"><span>Harris told</span><span><a class="c2"
+        href="https://www.myeasternshoremd.com/kent_county_news/news/regional/congressional-candidates-discuss-economic-development-covid-19/article_43ec7563-f240-5370-805f-ead0ca0cc00f.html">&nbsp;</a></span><span
+      class="c4"><a class="c2"
+        href="https://www.myeasternshoremd.com/kent_county_news/news/regional/congressional-candidates-discuss-economic-development-covid-19/article_43ec7563-f240-5370-805f-ead0ca0cc00f.html">Kent
+        County News</a></span><span class="c1">&nbsp;he supports steps the federal government took to handle the
+      pandemic, like its decision to stop international travel and accelerate the development of treatments and
+      vaccines. Harris voted against the Cares Act and other COVID-19 relief bills.</span></li>
+  <li class="c3"><span class="c1">Harris also supported the First Step Act, a bipartisan criminal justice reform
+      package that aims to reduce recidivism and decrease the federal prison population, while promoting public
+      safety. </span></li>
+  <li class="c3"><span class="c27">Harris</span><span class="c27">&nbsp;promises to support legislation to impose
+      &ldquo;tougher penalties&rdquo; and deport &quot;dangerous gang members and traffickers who are in this
+      country illegally,&quot; according to his campaign website.</span></li>
+</ul>

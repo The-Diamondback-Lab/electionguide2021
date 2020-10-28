@@ -1,0 +1,25 @@
+Kweisi Mfume
+mfume
+District 7
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Democrat
+
+<p class="c13"><span class="c1">A former representative first elected in 1986 and former president of the NAACP,
+    Kweisi Mfume returned to Congress in April after winning a special election to replace the late Elijah Cummings.
+    During his first tenure on Capitol Hill, Mfume served as chairman of the Congressional Black Caucus and the
+    Joint Economic Committee of the House and Senate, per his campaign website.</span></p>
+<p class="c13"><span class="c1">Here are some of his policy positions, according to his campaign website:</span></p>
+<p class="c13 c14"><span class="c1"></span></p>
+<ul class="c17 lst-kix_qanuiiwins3r-0 start">
+  <li class="c0"><span class="c1">Ensure medical professionals have access to personal protective equipment, or
+      PPE.</span></li>
+  <li class="c0"><span class="c1">Call for federal resources to combat crime in the district.</span></li>
+  <li class="c0"><span class="c1">Expand the Affordable Care Act and work to lower the cost of prescription
+      medications.</span></li>
+  <li class="c0"><span class="c1">Ban assault weapons and implement universal background checks.</span></li>
+  <li class="c0"><span class="c1">Raise the minimum wage.</span></li>
+  <li class="c0"><span class="c1">Enact policies to limit student debt and promote new school construction.</span>
+  </li>
+</ul>

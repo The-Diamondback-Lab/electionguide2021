@@ -1,0 +1,30 @@
+Jamie Raskin
+raskin
+District 8
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Democrat
+
+<p class="c13"><span class="c1">Takoma Park resident Jamie Raskin has served two terms in the House since being
+    elected in 2016. He is a returning member of the House Judiciary Committee, the Committee on Oversight and
+    Reform and the Committee on House Administration.</span></p>
+<p class="c13"><span class="c1">Before being elected to Congress, Raskin served three terms in the state senate and
+    taught constitutional law at American University for over 25 years, according to his campaign website.</span>
+</p>
+<p class="c13"><span class="c1">Here are some of his policy positions, according to his campaign website:</span></p>
+<p class="c13 c14"><span class="c1"></span></p>
+<ul class="c17 lst-kix_cgcjen3d9y8m-0 start">
+  <li class="c0"><span class="c1">Support policies to transition to a green economy, invest in clean-energy
+      technologies and help fossil fuel industry workers retrain for new jobs as the industry is diminished.</span>
+  </li>
+  <li class="c0"><span class="c1">Protect and expand the Affordable Care Act.</span></li>
+  <li class="c0"><span class="c1">Support universal background checks and a ban on assault weapons and high-capacity
+      magazines.</span></li>
+  <li class="c0"><span class="c1">Advocate for raising the minimum wage to $15 an hour and defend the right to
+      collective bargaining.</span></li>
+  <li class="c0"><span class="c1">Support repeal of the Hyde Amendment, which banned federal funding for
+      abortion.</span></li>
+  <li class="c0"><span class="c1">Advocate for restoring protections for refugees and asylum seekers and for
+      immigration reform.</span></li>
+</ul>

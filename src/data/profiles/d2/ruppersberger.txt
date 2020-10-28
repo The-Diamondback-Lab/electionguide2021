@@ -1,0 +1,31 @@
+C.A. Dutch Ruppersberger
+ruppersberger
+District 2
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Democrat
+
+<p class="c9"><span class="c1">Rep. C.A. Dutch Ruppersberger, a University of Maryland alumnus, is running for a
+    tenth term in the U.S. House of Representatives for Maryland&rsquo;s 2nd District.</span></p>
+<p class="c9"><span class="c1">Ruppersberger, a longtime public servant for the state, is a &ldquo;centrist&rdquo;
+    Democrat. He&rsquo;s proposed several bills alongside the Maryland delegation, including advocating for improved
+    drinking water and public transportation statewide.</span></p>
+<p class="c9"><span class="c1">Ruppersberger currently serves on the House Appropriations Committee, as well as the
+    House&rsquo;s subcommittees on Defense, Homeland Security and the Legislative Branch.</span></p>
+<p class="c9"><span>According to his </span><span class="c4 c19"><a class="c2"
+      href="https://www.dutchforcongress.com/">campaign
+      site</a></span><span class="c1">, if elected for his tenth term, Ruppersberger would focus on:</span></p>
+<ul class="c17 lst-kix_hcd78vjuwd7y-0 start">
+  <li class="c3"><span class="c1">Passing legislation to limit pollution and reducing run-off into the Chesapeake
+      Bay</span></li>
+  <li class="c3"><span class="c1">Securing America&rsquo;s borders to prevent illegal immigration and cracking down
+      on businesses that hire people who are in the country without the proper documentation</span></li>
+  <li class="c3"><span class="c1">Creating a pathway to citizenship for undocumented immigrants who &ldquo;pay all
+      back taxes, learn about their new country and pass a citizenship test&rdquo;</span></li>
+  <li class="c3"><span class="c1">Expanding federal unemployment benefits amid the pandemic and increasing testing
+      for the virus</span></li>
+  <li class="c3"><span>Passing a constitutional amendment that would effectively reverse the controversial Citizens
+      United Supreme Court ruling, which barred the government from banning political spending by corporations in
+      elections</span></li>
+</ul>

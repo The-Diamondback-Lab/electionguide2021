@@ -1,0 +1,26 @@
+Kimberly Klacik
+klacik
+District 7
+InsertIsIncumbent
+InsertQuote
+InsertPhotoCreds
+Republican
+
+<p class="c13"><span class="c1">A resident of Baltimore County since 2010, Kimberly Klacik is the founder of the
+        nonprofit Potential Me, which helps women in the greater Baltimore area gain financial independence, according
+    to her campaign website. She worked as a Republican strategist and spoke at the 2020 Republican National
+    Convention.</span></p>
+<p class="c13"><span class="c1">Here are some of her policy positions, according to her campaign website:</span></p>
+<ul class="c17 lst-kix_vujbe2cqxrdr-0 start">
+  <li class="c0"><span class="c1">Connect the Port of Baltimore to the I-270 Biotech corridor and west
+      Baltimore&#x2019;s federal opportunity zone.</span></li>
+  <li class="c0"><span class="c1">Implement a 100 percent tax credit for all school-related expenses so parents can
+      send their students to any school &#x2014; public or private.</span></li>
+  <li class="c0"><span class="c1">Provide additional mental health services to families impacted by violence.</span>
+  </li>
+  <li class="c0"><span class="c1">Lower health care costs for small businesses and improve health care for
+      veterans.</span></li>
+  <li class="c0"><span class="c1">Support the right to bear arms.</span></li>
+  <li class="c0"><span class="c1">Make birth control available over-the-counter and increase the number of
+      women&#x2019;s health providers in the district.</span></li>
+</ul>

@@ -1,0 +1,309 @@
+<html ng-app="cityApp">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <!-- Angular and plugins for it -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.6/angular.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.2/angular-ui-router.js"></script>
+  <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.6.6/angular-sanitize.min.js"></script>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+
+  <!-- Lazy Loading Library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.0.0/lazysizes.min.js"></script>
+
+  <script src="js/app.js"></script>
+
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/spinner.css">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+  <title>College Park Election Guide 2019</title>
+  <link rel="shortcut icon" href="https://dbknews.com/static/favicon.ico" type="image/x-icon">
+
+  <!-- meta -->
+  <meta property="og:title" content="The Diamondback's 2019 College Park Election Guide">
+
+</head>
+
+<body ng-controller="main-ctlr">
+
+  <div class="spinner-wrapper">
+    <div class="spinner-container">
+      <center>
+        <img style="border-radius: 0px;"
+          src="https://s3.amazonaws.com/wapopartners.com/dbknews-wp/wp-content/uploads/2016/12/11225146/SpecialProject.jpg"
+          width="100px" height="auto"><br />
+        <div class="preload"> <span></span> <span></span> <span></span></div>
+      </center>
+    </div>
+  </div>
+
+  <div class="container-fluid" id="landing-page">
+    <div class="row" id="landing-row">
+      <div class="col-lg-12 intro-content">
+        <a href="https://dbknews.com" target="_blank"><img id="header-logo" src="img/dbk-widelogo.png" alt=""></a>
+        <h1 id="header-text">College Park 2019<br />Election Guide</h1>
+        <br />
+        <h3 class="intro-text">
+          This year's election features a less crowded field than last time around, with three candidates for mayor and an uncontested race in one district. But it comes on the heels of the council's approval of a citywide ordinance banning "unruly social gatherings" and a proposed apartment complex that would displace multiple popular restaurants in the heart of College Park, both of which faced student pushback. Below, we've profiled all 14 candidates and outlined voting history for those with council experience.
+        </h3>
+      </div>
+    </div>
+  </div>
+  <div class="container main-list">
+    <div class="district mayor">
+      <h2>Presidential Race</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Donald Trump')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/trump.jpg">
+          <h3>Donald Trump</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Joe Biden')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/biden.jpg">
+          <h3>Joe Biden</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Jerome Segal')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/segal.jpg">
+          <h3>Jerome Segal</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Jo Jorgensen')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/jorgensen.jpg">
+          <h3>Jo Jorgensen</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Howie Hawkins')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/hawkins.jpg">
+          <h3>Howie Hawkins</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 1</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Andy Harris')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/harris.jpg">
+          <h3>Andy Harris</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Mia Mason')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/mason.jpg">
+          <h3>Mia Mason</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 2</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Johnny Ray Salling')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/salling.jpg">
+          <h3>Johnny Ray Salling</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('C.A. Dutch Ruppersberger')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/ruppersberger.jpg">
+          <h3>C.A. Dutch Ruppersberger</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 3</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Charles Anthony')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/anthony.jpg">
+          <h3>Charles Anthony</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('John Sarbanes')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/sarbanes.jpg">
+          <h3>John Sarbanes</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 4</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('George McDermott')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/mcdermott.jpg">
+          <h3>George McDermott</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Anthony Brown')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/brown.jpg">
+          <h3>Anthony Brown</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 5</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Chris Palombi')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/palombi.jpg">
+          <h3>Chris Palombi</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Steny Hoyer')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/hoyer.jpg">
+          <h3>Steny Hoyer</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 6</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Neil Parrott')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/parrott.jpg">
+          <h3>Neil Parrott</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('George Gluck')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/gluck.jpg">
+          <h3>George Gluck</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('David Trone')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/trone.jpg">
+          <h3>David Trone</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 7</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Kimberly Klacik')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/klacik.jpg">
+          <h3>Kimberly Klacik</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Kweisi Mfume')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/mfume.jpg">
+          <h3>Kweisi Mfume</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="district">
+      <h2>District 8</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Gregory Thomas Coll')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/coll.jpg">
+          <h3>Gregory Thomas Coll</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Jamie Raskin')"
+          onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/raskin.jpg">
+          <h3>Jamie Raskin</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="details" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="windowTitleLabel">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3 style="margin-top: 10px">{{name}} <span class="lightfont"> - {{election}}</span></h3>
+      </div>
+      <div class="modal-body">
+        <div class="tabbable">
+          <!-- Only required for left/right tabs -->
+          <ul class="nav nav-tabs">
+            <li class="active"><a href="#tab1" data-toggle="tab">Profile</a></li>
+          </ul>
+          <div class="tab-content">
+            <div class="tab-pane active" id="tab1">
+              <div class="row">
+                <div class="col-md-6">
+                  <img class="img-responsive lazyload square" src="img/{{photofile}}" />
+                  <p class="photocreds">{{photoCreds}}</p>
+                  <h3 class="pulled-quote">{{quote}}</h3>
+                </div>
+
+                <div class="col-md-6 bio">
+                  <div data-html="true" ng-bind-html="bio">
+                  </div>
+                  <p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <a href="" class="btn btn-primary" onclick="$('#details').modal('hide');">Close</a>
+      </div>
+    </div>
+  </div>
+
+  <!---footer-->
+  <footer>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-6">
+          <h2>Credits</h2>
+          <p>Reporting: <span class="lightfont">Angela Mecca with Carmen Molina Acosta, Rina Torchinsky and Rosa
+              Pyo</span></p>
+          <p>Illustration: <span class="lightfont">Julia Nikhinson</span></p>
+          <p>Website Design: <span class="lightfont">Vishal Patel, Akshay Guthal, Siddy Tuli</span></p>
+          <br />
+          <a href="https://dbknews.com" target="_blank"><img src="img/dbk-widelogo.png" alt=""></a>
+        </div>
+        <div class="col-md-6">
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <div style="float:right" id="addthis" class="addthis_inline_share_toolbox"></div>
+        </div>
+      </div>
+
+      <!-- Go to www.addthis.com/dashboard to customize your tools -->
+      <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59f9f7a995a46950"></script>
+
+      <!-- Spinner code !-->
+      <script>
+        $(window).on('load', function () {
+          preloaderFadeOutTime = 500;
+
+          function hidePreloader() {
+            var preloader = $('.spinner-wrapper');
+            preloader.fadeOut(preloaderFadeOutTime);
+          }
+          hidePreloader();
+        });
+      </script>
+
+  </footer>
+
+</body>
+
+</html>

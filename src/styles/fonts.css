@@ -1,0 +1,29 @@
+@font-face {
+  font-family: solano-gothic-bd;
+  src: url("../fonts/SolanoGothicMVB-BdCap.otf");
+}
+
+@font-face {
+  font-family: solano-gothic-sb;
+  src: url("../fonts/SolanoGothicMVB-SbCap.otf")
+}
+
+@font-face {
+  font-family: solano-gothic-lc;
+  src: url("../fonts/SolanoGothicMVB-Sb.otf")
+}
+
+@font-face {
+  font-family: solano-gothic-md;
+  src: url("../fonts/SolanoGothicMVB-MdCap.otf")
+}
+
+@font-face {
+  font-family: solano-gothic-rg;
+  src: url("../fonts/SolanoGothicMVB-RgCap.otf")
+}
+
+@font-face {
+  font-family: solano-gothic-lt;
+  src: url("../fonts/SolanoGothicMVB-LtCap.otf")
+}
