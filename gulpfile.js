@@ -1,6 +1,6 @@
 const path = require('path');
 const rimraf = require('rimraf');
-const mkdirp = require('mkdirp-promise');
+const mkdirp = require('mkdirp');
 
 const buildProfile = require('./scripts/profiles');
 const buildMinify = require('./scripts/minify');
@@ -20,7 +20,7 @@ async function build(cb) {
 async function buildCandidateData() {
   await mkdirp(path.resolve(BUILD_DIR, 'content'));
 
-  const profiles = await buildProfile(path.resolve(DATA_SRC_DIR, 'profiles'),
+  await buildProfile(path.resolve(DATA_SRC_DIR, 'profiles'),
     path.resolve(BUILD_DIR, 'content/profiles.json'));
 }
 
