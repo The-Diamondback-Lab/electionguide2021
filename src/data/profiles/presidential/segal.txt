@@ -1,9 +1,8 @@
 Jerome Segal
 segal
 Presidential Race
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtesy of Jerome Segal
 Bread and Roses
 
 <p class="c13"><span class="c1">Jerome Segal, a former research scholar in the University of Maryland&rsquo;s

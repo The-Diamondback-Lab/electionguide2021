@@ -1,9 +1,8 @@
 Jamie Raskin
 raskin
 District 8
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Joe Ryan/The Diamondback
 Democrat
 
 <p class="c13"><span class="c1">Takoma Park resident Jamie Raskin has served two terms in the House since being

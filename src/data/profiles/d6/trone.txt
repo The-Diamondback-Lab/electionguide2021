@@ -1,9 +1,8 @@
 David Trone
 trone
 District 6
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+null
 Democrat
 
 <p class="c13"><span class="c1">Rep. David Trone, a Democrat, has served as the U.S. Representative for

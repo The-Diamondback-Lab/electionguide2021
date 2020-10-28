@@ -1,9 +1,8 @@
 Anthony Brown
 brown
 District 4
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Julia Nikhinson/The Diamondback
 Democrat
 
 <p class="c9"><span class="c1">Rep. Anthony Brown is seeking his third term as representative for Maryland&#x2019;s

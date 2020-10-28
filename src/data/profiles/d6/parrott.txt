@@ -1,9 +1,8 @@
 Neil Parrott
 parrott
 District 6
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo via Wikimedia Commons
 Republican
 
 <p class="c13"><span>A lifelong Marylander, Neil Parrott, a Republican, lives, works and raises his family in

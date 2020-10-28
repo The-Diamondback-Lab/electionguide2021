@@ -1,9 +1,8 @@
 Johnny Ray Salling
 salling
 District 2
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtesy of Maryland State Archives
 Republican
 
 <p class="c9"><span class="c1">Johnny Ray Salling, the current representative for District 6 in the Maryland State

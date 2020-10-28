@@ -2,23 +2,6 @@ const fs = require('fs');
 const recursiveReaddir = require('recursive-readdir');
 
 /**
- * A set of warning directives that are intended to be used as
- * placeholder values when not enough information for a candidate is
- * given. For example, a candidate that does not have a quote shoould
- * use the `QUOTE` warning directive, so when parsing that candidate's
- * profile file, a warning will print out saying they have an invalid
- * quote.
- */
-const WARNING_DIRECTIVES = {
-  FULL_NAME: "InsertFullName",
-  PICTURE_FILENAME: "InsertPictureFilename",
-  POSITION: "InsertPosition",
-  QUOTE: "InsertQuote",
-  PHOTO_CREDS: "InsertPhotoCreds",
-  PARTY: "InsertParty"
-}
-
-/**
  * @typedef CandidateProfile
  * @property {string} fullName
  * @property {string} pictureFileBaseName
@@ -52,7 +35,7 @@ function parseProfileFile(filename, text) {
     .map(s => s.replace(/“|”/g, '"'))
     .map(s => s.replace(/’/g, '\''));
 
-  const candidateInfo = lines.splice(0, 7);
+  const candidateInfo = lines.splice(0, 6);
 
   /**
    * @type {CandidateProfile}
@@ -62,39 +45,10 @@ function parseProfileFile(filename, text) {
     pictureFileBaseName: candidateInfo[1].trim(),
     position: candidateInfo[2].trim(),
     isIncumbent: candidateInfo[3].trim().toLowerCase() === 'true',
-    quote: candidateInfo[4].trim(),
-    photoCreds: candidateInfo[5].trim(),
-    party: candidateInfo[6].trim(),
+    photoCreds: candidateInfo[4].trim(),
+    party: candidateInfo[5].trim(),
     bio: parseBio(lines)
   };
-
-  // Print out any warnings that we can catch
-  if (candidateInfo[0].toUpperCase() === WARNING_DIRECTIVES.FULL_NAME.toUpperCase()) {
-    console.warn(`Candidate ${filename} does not have a valid full name`);
-  } else if (candidateInfo[1].toUpperCase() === WARNING_DIRECTIVES.PICTURE_FILENAME.toUpperCase()) {
-    console.warn(`Candidate ${profile.fullName} does not have a valid picture file basename`);
-  } else if (candidateInfo[2].toUpperCase() === WARNING_DIRECTIVES.POSITION.toUpperCase()) {
-    console.warn(`Candidate ${filename} does not have a valid position`);
-  } else if (candidateInfo[3].toUpperCase() !== 'TRUE' && candidateInfo[3].toUpperCase() !== 'FALSE') {
-    console.warn(`Candidate ${profile.fullName} does not have a valid incumbent value '${candidateInfo[3]}'`);
-  } else if (candidateInfo[4].toUpperCase() === WARNING_DIRECTIVES.QUOTE.toUpperCase()) {
-    console.warn(`Candidate ${profile.fullName} does not have a valid quote`);
-  } else if (candidateInfo[5].toUpperCase() === WARNING_DIRECTIVES.PHOTO_CREDS.toUpperCase()) {
-    console.warn(`Candidate ${profile.fullName} does not have valid photo credits`);
-  } else if (candidateInfo[6].toUpperCase() === WARNING_DIRECTIVES.PARTY.toUpperCase()) {
-    console.warn(`Candidate ${profile.fullName} does not have a valid party name`);
-  }
-
-  // Wrap the candidate's quote in actual quotes if need be
-  if (!/^\".*\"$/.test(profile.quote)) {
-    if (!profile.quote.startsWith('"')) {
-      profile.quote = '"' + profile.quote;
-    }
-
-    if (!profile.quote.endsWith('"')) {
-      profile.quote += '"';
-    }
-  }
 
   return profile;
 }
@@ -106,27 +60,6 @@ function parseProfileFile(filename, text) {
  */
 function parseBio(lines) {
   return lines.join(' ');
-  // Whether or not we're parsing a list
-  const parsedElems = [];
-
-  for (let i = 0; i < lines.length; i++) {
-    // Lines starting with asterisks indicate lists
-    if (lines[i].startsWith('* ')) {
-      const listItems = [];
-      // Iterate until we don't find a line that starts with an asterisk OR we reach the EOF
-      for (; i < lines.length && lines[i].startsWith('* '); i++) {
-        listItems.push(`<li>${lines[i].substring(2)}</li>`);
-      }
-      parsedElems.push(`<ul>${listItems.join('')}</ul>`);
-
-      // Update index
-      i--;
-    } else {
-      parsedElems.push(`<p>${lines[i]}</p>`);
-    }
-  }
-
-  return parsedElems.join('');
 }
 
 /**

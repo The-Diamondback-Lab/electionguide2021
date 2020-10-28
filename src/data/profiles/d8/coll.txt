@@ -1,9 +1,8 @@
 Gregory Thomas Coll
 coll
 District 8
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Julia Nikhinson/The Diamondback
 Republican
 
 <p class="c13"><span class="c1">Rockville resident Gregory Coll is a rocket scientist for a government contractor.

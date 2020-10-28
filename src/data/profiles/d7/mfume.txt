@@ -1,9 +1,8 @@
 Kweisi Mfume
 mfume
 District 7
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+null
 Democrat
 
 <p class="c13"><span class="c1">A former representative first elected in 1986 and former president of the NAACP,

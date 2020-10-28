@@ -1,9 +1,8 @@
 Howie Hawkins
 hawkins
 Presidential Race
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtesy of Howie Gresham Hawkins
 Green
 
 <p class="c13"><span class="c1">Before running for office as the presidential nominee for the left-wing Green Party,

@@ -1,9 +1,8 @@
 Andy Harris
 harris
 District 1
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+null
 Republican
 
 <p class="c9"><span class="c1">Andy Harris&rsquo; career in public service started during the Reagan administration,

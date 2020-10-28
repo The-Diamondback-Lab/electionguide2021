@@ -1,9 +1,8 @@
 Charles Anthony
 anthony
 District 3
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtesy of Charles Anthony
 Republican
 
 <p class="c9"><span>Charles Anthony decided to run for office after watching the 2018 and 2020 State of the Union

@@ -2,8 +2,7 @@ Donald Trump
 trump
 Presidential Race
 true
-InsertQuote
-InsertPhotoCreds
+null
 Republican
 
 <p class="c13"><span class="c1">Incumbents are often the center of presidential elections&nbsp;&mdash; but the

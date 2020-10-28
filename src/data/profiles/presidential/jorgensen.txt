@@ -1,9 +1,8 @@
 Jo Jorgensen
 jorgensen
 Presidential Race
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtesy of Jo Jorgensen
 Libertarian
 
 <p class="c13"><span class="c1">Jo Jorgensen, a senior lecturer at Clemson University, is the Libertarian

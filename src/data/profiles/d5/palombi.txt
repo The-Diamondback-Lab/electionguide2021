@@ -1,9 +1,8 @@
 Chris Palombi
 palombi
 District 5
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtesy of Chris Palombi
 Republican
 
 <p class="c9"><span class="c1">Chris Palombi is a Calvert County native and former U.S. Capitol Police Officer

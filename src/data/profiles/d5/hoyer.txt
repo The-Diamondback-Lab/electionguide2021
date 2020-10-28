@@ -1,9 +1,8 @@
 Steny Hoyer
 hoyer
 District 5
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo via Wikimedia Commons
 Democrat
 
 <p class="c9"><span class="c1">There are few in Congress who have been around as long as Rep. Steny Hoyer. The

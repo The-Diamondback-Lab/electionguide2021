@@ -1,9 +1,8 @@
 Mia Mason
 mason
 District 2
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtsey of Mia Mason
 Democrat
 
 <p class="c9"><span>When Mia Mason was kicked out of the military back in 2015 for being transgender, it set off a

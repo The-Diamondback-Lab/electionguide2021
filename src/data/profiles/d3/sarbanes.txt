@@ -1,9 +1,8 @@
 John Sarbanes
 sarbanes
 District 3
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+null
 Democrat
 
 <p class="c9"><span class="c1">Democratic Rep. John Sarbanes is running for his seventh term in the U.S. House of

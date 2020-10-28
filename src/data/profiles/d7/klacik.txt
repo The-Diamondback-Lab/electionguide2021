@@ -1,9 +1,8 @@
 Kimberly Klacik
 klacik
 District 7
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Julia Nikhinson/The Diamondback
 Republican
 
 <p class="c13"><span class="c1">A resident of Baltimore County since 2010, Kimberly Klacik is the founder of the

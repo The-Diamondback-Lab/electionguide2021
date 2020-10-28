@@ -1,9 +1,8 @@
 George McDermott
 mcdermott
 District 4
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+null
 Republican
 
 <p class="c9"><span>Charles Anthony decided to run for office after watching the 2018 and 2020 State of the Union

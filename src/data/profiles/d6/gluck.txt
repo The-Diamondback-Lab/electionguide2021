@@ -1,9 +1,8 @@
 George Gluck
 gluck
 District 6
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+​Julia Nikhinson/The Diamondback
 Green
 
 <p class="c5"><span class="c1">Before launching his current campaign to represent Maryland&#x2019;s 6th Congressional

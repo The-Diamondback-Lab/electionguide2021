@@ -1,9 +1,8 @@
 Joe Biden
 biden
 Presidential Race
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+null
 Democrat
 
 <p class="c13"><span class="c1">Joe Biden has campaigned as the anti-Trump, championing himself as a man of morals

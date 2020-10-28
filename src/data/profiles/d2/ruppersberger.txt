@@ -1,9 +1,8 @@
 C.A. Dutch Ruppersberger
 ruppersberger
 District 2
-InsertIsIncumbent
-InsertQuote
-InsertPhotoCreds
+false
+Photo courtesy of C.A. Dutch Ruppersberger
 Democrat
 
 <p class="c9"><span class="c1">Rep. C.A. Dutch Ruppersberger, a University of Maryland alumnus, is running for a
