@@ -2,24 +2,24 @@
 kennedy
 District 1
 true
-null
+"I definitely would love to hear from folks about what things we could be doing better."
 null
 
-<p class="c13"><span class="c1">Council member Kate Kennedy is seeking reelection in College Park’s District 1. Since no challengers are running in the District 1 race, she will keep her seat.</span></p>
+<p class="c13"><span class="c1">Council member Kate Kennedy is seeking reelection in College Park's District 1. No challengers are running in the District 1 Race</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">Kennedy hopes to see through some of the projects she’s started during her two terms on the council, including working on the city’s affordable housing solutions and neighborhood preservation.</span></p>
+<p class="c13"><span class="c1">Kennedy hopes to see through some of the projects she's started during her two terms on the council, including working on the city's affordable housing solutions and neighborhood preservation.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">She also wants to prioritize the environment in her work, such as pushing forward a tree ordinance that could help stop the loss of College Park’s declining tree canopy.</span></p>
+<p class="c13"><span class="c1">She also wants to prioritize the environment in her work, such as pushing forward a tree ordinance that could help stop the loss of College Park's declining tree canopy.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">Having recently become a foster parent to a teenager who attends a local high school, Kennedy said she hopes to solve some issues in the city’s public education.</span></p>
+<p class="c13"><span class="c1">Having recently become a foster parent to a teenager who attends a local high school, Kennedy said she hopes to solve some issues in the city's public education.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">“We're seeing firsthand sort of what they're doing well,” Kennedy said. "And what they really need to improve on."</span></p> 
+<p class="c13"><span class="c1">"We're seeing firsthand sort of what they're doing well," Kennedy said. "And what they really need to improve on."</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">Kennedy also aims to support locals through any mental health issues they may be facing.</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">“The mental health crisis in this country is huge. And I think being there for each other and in our communities is important. So trying to find ways to do that is something I’ve had in my mind,” Kennedy said. “I definitely would love to hear from folks about what things we could be doing better.”</span></p> 
+<p class="c13"><span class="c1">"The mental health crisis in this country is huge. And I think being there for each other and in our communities is important. So trying to find ways to do that is something I've had in my mind," Kennedy said. "I definitely would love to hear from folks about what things we could be doing better."</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">A College Park resident since 2014, Kennedy said she’s excited about development in the city’s downtown areas to include more local businesses. She also loves the “diversity of the community” in College Park. </span></p>
+<p class="c13"><span class="c1">A College Park resident since 2014, Kennedy said she's excited about development in the city's downtown areas to include more local businesses. She also loves the "diversity of the community" in College Park. </span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">​​”My favorite part of the week is walking down to the farmers market and spending like two or three hours ... just eating some good local foods and hanging out and talking to folks,” Kennedy said.</span></p>
+<p class="c13"><span class="c1">​​"My favorite part of the week is walking down to the farmers market and spending like two or three hours ... just eating some good local foods and hanging out and talking to folks," Kennedy said.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>

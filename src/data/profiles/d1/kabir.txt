@@ -2,7 +2,7 @@ Fazlul Kabir
 kabir
 District 1
 true
-null
+"I'll try my best based on my experience to get things done."
 null
 
 <p class="c13"><span class="c1">District 1 council member Fazlul Kabir is running for his sixth term on the College Park City Council.</span></p>
@@ -11,17 +11,17 @@ null
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">"College Park residents have been asking for one for many years now, more than 10 years," Kabir said.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">He also hopes to cross the "finish line" on projects like revitalization in the Hollywood commercial district and the redesign of Duvall Field. </span></p>
+<p class="c13"><span class="c1">He also hopes to cross the "finish line" on projects such as revitalization in the Hollywood commercial district and the redesign of Duvall Field. </span></p>
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">Kabir has called College Park home since 2003, according to the city website. One of his strengths as a council member and one of his favorite aspects of living in College Park, Kabir said, is connecting with residents through local events. Kabir is also one of the co-founders of College Park Day, according to the city website.</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">"I like to bring [the] community together in different events," Kabir said. "From the very beginning I have worked on different events, even small events like community clean-up, winter clothing drive, snow clean-up event, helping our residents and getting the community involved together."</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">Kabir also enjoys College Park’s parks and, as a biker, supports creating more bike trails and paths around the city.</span></p> 
+<p class="c13"><span class="c1">Kabir also enjoys College Park's parks and, as a biker, supports creating more bike trails and paths around the city.</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">The council member said he appreciates hearing from his neighbors and constituents.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">"I'll try my best based on my experience to get things done," Kabir said. "And it doesn't matter whether it's a small thing, like a street light not working, or a big project idea that might cost millions of dollars."</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">Prior to serving on council, Kabir served as the secretary of the North College Park Citizens Association for four terms. Kabir teaches at the University of Maryland with a doctorate in electrical engineering from the University Of Manchester.</span></p>
+<p class="c13"><span class="c1">Prior to serving on council, Kabir served as the secretary of the North College Park Citizens Association for four terms.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>

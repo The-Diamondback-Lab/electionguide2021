@@ -36,7 +36,7 @@ cityApp.controller('main-ctlr', ['$scope','$http','_','$sce', ($scope, $http, _,
       let profile = profiles.find(p => p.fullName === candidate);
 
       $scope.name = profile.fullName;
-      $scope.election = profile.position + (profile.isIncumbent ? ' (Incumbent)' : '');
+      $scope.election = profile.position;
       $scope.bio = profile.bio;
       $scope.quote = profile.quote;
       $scope.photofile = profile.pictureFileBaseName + '.jpg'

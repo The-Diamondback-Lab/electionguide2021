@@ -1,7 +1,7 @@
 {
-  "name": "electionguide2020",
+  "name": "electionguide2021",
   "version": "1.0.0",
-  "description": "A website displaying info about the 2020 Presidential candidates and Maryland Congressional candidates",
+  "description": "A website displaying info about the 2021 Election",
   "scripts": {
     "test": "echo \"There are no tests :)\" ",
     "clean": "gulp clean",
@@ -23,7 +23,7 @@
   ],
   "contributors": [
     {
-      "name": "Akshay Guthal"
+      "name": "Anthony Breder"
     },
     {
       "name": "Siddy Tuli"
@@ -35,9 +35,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/The-Diamondback-Lab/electionguide2020/issues"
+    "url": "https://github.com/The-Diamondback-Lab/electionguide2021/issues"
   },
-  "homepage": "https://github.com/The-Diamondback-Lab/electionguide2020#readme",
+  "homepage": "https://github.com/The-Diamondback-Lab/electionguide2021#readme",
   "devDependencies": {
     "aws-sdk": "^2.603.0",
     "babel-minify": "^0.5.1",

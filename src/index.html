@@ -56,21 +56,19 @@
   <div class="container-fluid" id="landing-page">
     <div class="row" id="landing-row">
       <div class="col-lg-12 intro-content">
-        <h1 id="header-text">The Diamondback<br />2021 Election Guide</h1>
+        <h1 id="header-text">The Diamondback<br />2021 College Park Election Guide</h1>
         <br />
         <h3 class="intro-text">
-          The 2021 elections, much like most things this year, are unprecedented. The coronavirus pandemic has left us with socially distant debates, virtual campaigning and millions of mail-in ballots.
-          <br/>
-          The public health crisis, paired with global protests for racial justice, has ushered issues such as policing, healthcare, immigration and the economy to the forefront of this election cycle.
-          <br/>
-          The Diamondback has compiled a guide for Maryland voters to better understand the backgrounds and policy positions of the presidential and congressional candidates.
+          In the 2021 College Park election, two of four city council districts are contested, and the mayoral race is uncontested.
+          <br />
+          Candidates this year are especially focused on affordable housing, transportation projects, redistricting and commercial developments — all topics the council has discussed in recent meetings.
         </h3>
       </div>
     </div>
   </div>
   <div class="container main-list">
     <div class="district mayor">
-      <h2>District Mayor</h2>
+      <h2>Mayor</h2>
       <div class="row">
         <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Patrick Wojahn')"
           onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
@@ -104,15 +102,15 @@
           <img class="img-responsive lazyload" src="img/catlin.jpg">
           <h3>Robert Catlin</h3>
         </div>
-        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Llatetra Brown Esters')"
-             onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
-          <img class="img-responsive lazyload" src="img/esters.png">
-          <h3>Llatetra Brown Esters</h3>
-        </div>
         <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Susan Whitney')"
              onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
           <img class="img-responsive lazyload" src="img/whitney.jpg">
           <h3>Susan Whitney</h3>
+        </div>
+        <div class="col-sm-6 col-md-3 profile-pic-div" ng-click="getCandidateInfo('Llatetra Brown Esters')"
+             onclick="$('.nav-tabs a:first').tab('show'); $('#details').modal('show');">
+          <img class="img-responsive lazyload" src="img/esters.jpg">
+          <h3>Llatetra Brown Esters</h3>
         </div>
       </div>
     </div>
@@ -162,16 +160,12 @@
       </div>
       <div class="modal-body">
         <div class="tabbable">
-          <!-- Only required for left/right tabs -->
-          <ul class="nav nav-tabs">
-            <li class="active"><a href="#tab1" data-toggle="tab">Profile</a></li>
-          </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
               <div class="row">
                 <div class="col-md-6">
                   <img class="img-responsive lazyload square" src="img/{{photofile}}" />
-                  <p class="photocreds">{{photoCreds}}</p>
+                  <h3 class="pulled-quote">{{photoCreds}}</h3>
                   <h3 class="pulled-quote">{{quote}}</h3>
                 </div>
 
@@ -197,8 +191,9 @@
       <div class="row">
         <div class="col-md-6">
           <h2>Credits</h2>
-          <p>Reporting: <span class="lightfont">Jack Hogan, Clara Longo de Freitas, Chloe Goldberg and Anastasia Marks</span></p>
+          <p>Reporting: <span class="lightfont">Grace Yarrow, Shreya Vuttaluru, Shifra Dayak and Christine Zhu</span></p>
           <p>Illustration: <span class="lightfont">Julia Nikhinson</span></p>
+          <p>Photography: <span class="lightfont">Joe Ryan</span></p>
           <p>Website Design: <span class="lightfont">Anthony Breder and Roshni Patel</span></p>
           <br />
           <a href="https://dbknews.com" target="_blank"><img src="img/dbk-widelogo.png" alt=""></a>

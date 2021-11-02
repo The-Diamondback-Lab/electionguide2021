@@ -2,10 +2,10 @@
 rigg
 District 3
 true
-null
+"It's important to acknowledge the wrongs that the city has done."
 null
 
-<p class="c13"><span class="c1">John Rigg is running for his third term as a District 3 council member in one of two contested races in this year’s elections.</span></p>
+<p class="c13"><span class="c1">John Rigg is running for his third term as a District 3 council member in one of two contested races in this year's elections.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">If he is elected to another term, Rigg wants to focus on advancing racial justice — an issue he took a lead on last year.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
@@ -19,7 +19,7 @@ null
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">Rigg has spent time in Boulder, Colorado, and Ann Arbor, Michigan — where his mother and wife are from, respectively — and thinks College Park should follow those college towns' models of welcoming small businesses. Those types of businesses would cater to the city's diverse population, he said.</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">"We have a lot of chain restaurants, and those chain restaurants provide a level of stability,” Rigg said. “But they don't provide the level of variety and the true uniqueness that you see in some college towns."</span></p>
+<p class="c13"><span class="c1">"We have a lot of chain restaurants, and those chain restaurants provide a level of stability," Rigg said. "But they don't provide the level of variety and the true uniqueness that you see in some college towns."</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">​​Before joining the city council in 2017, Rigg was the president of the Calvert Hills Citizens Association for five years. He has lived in the Calvert Hills neighborhood since 2007. Rigg also works for the United States Department of Health and Human Services.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>

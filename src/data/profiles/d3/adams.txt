@@ -2,24 +2,24 @@ Stuart Adams
 adams
 District 3
 false
-null
+"We have our unique issues that pertain to College Park, and we need to address them in a way that makes sense for us."
 null
 
-<p class="c13"><span class="c1">Stuart Adams is running for a council seat in College Park’s District 3 election, challenging two incumbents for two open seats.</span></p>
+<p class="c13"><span class="c1">Stuart Adams is running for a council seat in College Park's District 3 election, challenging two incumbents for two open seats.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">After living in College Park for six years, Adams thinks it’s healthy for the community to have choices on the ballot. He’s the youngest candidate on the ballot at 35 years old.</span></p>
+<p class="c13"><span class="c1">After living in College Park for six years, Adams thinks it's healthy for the community to have choices on the ballot. He's the youngest candidate on the ballot at 35 years old.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">He previously served as the president of the Calvert Hills Citizens Association. As an engineer, certified floodplain manager and sustainability professional, Adams believes he would provide some needed context for development issues in the city.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">He is an advocate for saving Guilford Woods, an area at the University of Maryland that could see deforestation due to a proposed housing development. He hopes to find a solution that works for both graduate students seeking housing, who could benefit from the proposed development, and environmental activists.</span></p>
+<p class="c13"><span class="c1">He is an advocate for saving Guilford Woods, an area at the University of Maryland that could see deforestation due to a proposed housing development. </span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">Adams wants to focus on addressing affordable housing issues in the city — what he calls “the biggest issue we have right now” — by looking into rent control policies.</span></p> 
+<p class="c13"><span class="c1">Adams wants to focus on addressing affordable housing issues in the city <span>&#8212;</span> what he calls "the biggest issue we have right now" <span>&#8212;</span> by looking into rent control policies.</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">“We're not alone in this,” Adams said. “A lot of the nation is sharing this struggle, but we have our unique issues that pertain to College Park, and we need to address them in a way that makes sense for us.”</span></p> 
+<p class="c13"><span class="c1">"We're not alone in this," Adams said. "A lot of the nation is sharing this struggle, but we have our unique issues that pertain to College Park, and we need to address them in a way that makes sense for us."</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">Stormwater management is also a big priority for Adams, who believes studying college towns that also experience flooding could lead to answers in terms of addressing stormwater management in College Park.</span></p> 
+<p class="c13"><span class="c1">Stormwater management is also a big priority for Adams, who believes studying college towns that also experience flooding could lead to answers in terms of addressing issues in College Park.</span></p> 
 <p class="c13 c14"><span class="c1"></span></p>
 <p class="c13"><span class="c1">Living in college towns such as Baton Rouge, Louisiana, and Cambridge, Massachusetts, has given Adams some perspective on the liveliness of a college community and ways to take advantage of it, he said.</span></p>
 <p class="c13 c14"><span class="c1"></span></p>
-<p class="c13"><span class="c1">“When I decided to move to College Park I wanted to embrace the college atmosphere and activity surrounding it,” he said. “We should really look into leveraging and building a culture that invites business.”</span></p>
+<p class="c13"><span class="c1">"When I decided to move to College Park I wanted to embrace the college atmosphere and activity surrounding it," he said. "We should really look into leveraging and building a culture that invites business."</span></p>
 <p class="c13 c14"><span class="c1"></span></p>

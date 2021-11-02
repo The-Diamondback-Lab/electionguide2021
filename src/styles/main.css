@@ -220,7 +220,7 @@ h3 {
 
 .img-responsive {
   margin:auto;
-  width: 75%;
+  width: 85%;
 }
 
 .profile-pic-div {
@@ -286,6 +286,7 @@ img {
 .modal-dialog {
   background-color: white;
 }
+
 .nav-tabs {
   border-color: #e51937;
   font-family: "solano-gothic-bd";

@@ -1,7 +1,8 @@
 Patrick Wojahn
 wojahn
-District Mayor
+Mayor
 true
+"It's an incredibly diverse community."
 null
 
 <p class="c13"><span class="c1">Mayor Patrick Wojahn is running for his fourth term as mayor of College Park. The race for the position is uncontested.</span></p>
